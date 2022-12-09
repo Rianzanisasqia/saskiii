@@ -1,0 +1,40 @@
+.navbar ul li a{
+    text-decoration: none;
+    color: black;
+    font-size: 30px
+    font-family: 'Segoe UI'Tahoma,Geneva, Verdana,Sans-Serif;
+    margin right: 20px;
+}
+
+.navbar ul li{
+    color: blue
+    text-align: bold;;
+    font-size: 15px;
+    display: inline-block;;
+}
+
+.navbar ul{
+    float: center;
+}
+
+.navbar ul li a:hover{
+    color: ;grey
+    transition: 0,3s;
+}
+
+.c{
+    color: blue;
+    font-weight: normal;
+    font-style: normal;
+    font-weight: bold;
+}
+
+.a{
+    color: blue;
+    font-weight: normal;
+    font-style: normal;
+}
+h1{
+    text-align: bold;;
+    font-size: 15px;
+}
